@@ -1,0 +1,1 @@
+# arduino_74hc00_and_kopru_entegresi_kullanimi
